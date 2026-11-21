@@ -23,7 +23,7 @@
 
 - 🤖 **AI & Machine Learning:** Passionate about developing predictive models, neural networks, and deploying intelligent machine learning solutions.
 - 📊 **Data Analysis & Insights:** Skilled in exploratory data analysis (EDA), statistical modeling, data cleaning, and creating impactful visual dashboards.
-- ⚙️ **Backend Engineering:** Designing robust RESTful APIs, relational database schemas, and secure data-processing pipelines.
+- ⚙️ **Backend Engineering:** Building scalable, secure RESTful APIs using **PHP, Laravel, and Node.js** alongside robust database architectures.
 - 🎯 **Problem Solver:** Driven by leveraging data science and clean software engineering to solve real-world industry challenges.
 
 ---
@@ -51,9 +51,10 @@
 #### ⚙️ Backend & Database Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/RESTful-APIs-005571?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Relational_Modeling-ACID-success?style=for-the-badge" alt="Relational Modeling" />
 </p>
 
 #### 🔧 Tools & Environments
