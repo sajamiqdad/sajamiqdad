@@ -24,7 +24,7 @@
 - 🤖 **AI & Machine Learning:** Passionate about developing predictive models, neural networks, and deploying intelligent machine learning solutions.
 - 📊 **Data Analysis & Insights:** Skilled in exploratory data analysis (EDA), statistical modeling, data cleaning, and creating impactful visual dashboards.
 - ⚙️ **Backend Engineering:** Building scalable, secure RESTful APIs using **PHP, Laravel, and Node.js** alongside robust database architectures.
-- 🎯 **Problem Solver:** Driven by leveraging data science and clean software engineering to solve real-world industry challenges.
+- 🎯 **Problem Solver & Leader:** Driven by continuous learning, leading technical initiatives, and leveraging data to solve real-world industry challenges.
 
 ---
 
@@ -63,6 +63,19 @@
   <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 🤝 Professional & Soft Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Leadership_&_Initiative-0284C7?style=for-the-badge" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Analytical_Thinking-4F46E5?style=for-the-badge" alt="Analytical Thinking" />
+  <img src="https://img.shields.io/badge/Complex_Problem_Solving-059669?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Team_Collaboration-7C3AED?style=for-the-badge" alt="Collaboration" />
+  <img src="https://img.shields.io/badge/Technical_Communication-DB2777?style=for-the-badge" alt="Communication" />
+  <img src="https://img.shields.io/badge/Agile_&_Adaptability-D97706?style=for-the-badge" alt="Agile" />
 </p>
 
 ---
