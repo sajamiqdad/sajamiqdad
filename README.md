@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 📸 Profile Avatar: Dynamically fetched from your GitHub account -->
-  <img src="https://github.com/smiqdad2-beep.png" onerror="this.src='./profile.jpg'" width="135" height="135" style="border-radius: 50%; border: 3px solid #0A66C2; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" alt="Saja Miqdad" />
+  <img src="https://github.com/sajamiqdad.png" onerror="this.src='./profile.jpg'" width="135" height="135" style="border-radius: 50%; border: 3px solid #0A66C2; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" alt="Saja Miqdad" />
 
   # Saja Y. Miqdad 👋
 
