@@ -66,16 +66,10 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smiqdad2-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiqdad2-beep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/saja-y-miqdad-10b678394](https://www.linkedin.com/in/saja-y-miqdad-10b678394)
+<p align="left">
+  <a href="https://www.linkedin.com/in/saja-y-miqdad-10b678394" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
